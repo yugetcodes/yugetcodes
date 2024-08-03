@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yugasri
-- 👀 I’m AI enthusiast
-- 🌱 I’m currently pursuing 2'Btech
+- 👀 I’m Datascience enthusiast
+- 🌱 I’m currently pursuing 3'Btech
 - 💞️ I’m looking to collaborate on solving real world problems
   
 
