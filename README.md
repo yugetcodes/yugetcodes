@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yugasri
-- 👀 I’m Datascience enthusiast
+- 👀 I’m Data Science Enthusiast
 - 🌱 I’m currently pursuing 3'Btech
 - 💞️ I’m looking to collaborate on solving real world problems
   
